@@ -1,7 +1,7 @@
-## Power-Load-Forecasting
+# Power-Load-Forecasting
 Power Load consumption forecasting: a comparison between classical statistical models (ARIMA and Exponential Smoothing) and Machine Learning models (LSTM and Random Forest)
 
-# Description
+## Description
 The ultimate objective of this project is to compare ARIMA (AutoRegressive Integrated Moving Average) model, Exponential Smoothing model, LSTM and Random Forest models, in a widely known task: predicting a univariate time series.
 
 Specifically, the subject of prediction will be daily power load consumption in Italy. The observations used for analysis span a time period of 17 years, starting from January 1, 2006, to December 31, 2022.
