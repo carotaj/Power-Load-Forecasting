@@ -11,3 +11,6 @@ I conducted an EDA(Exploratory Data Analysis) in order to capture patterns like 
 
 For the purpose of the project objective, I excluded observations from 2020 to 2022 and used data from 2006 to 2018 as training data, to predict those of 2019.
 Next, I applied the ARIMA, Exponential Smoothing, Long Short Term Memory and Random Forest models to compare predictive performance.
+
+## Results
+
